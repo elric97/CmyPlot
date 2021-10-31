@@ -14,6 +14,7 @@ collapse = "id-options-collapse"
 x_att = "X-Axis"
 y_att = "Y-Axis"
 size = "Size"
+negval="id-negval"
 color = "Color"
 attributes = [x_att, y_att, size, color]
 att_drop = "id-att-dropdown"

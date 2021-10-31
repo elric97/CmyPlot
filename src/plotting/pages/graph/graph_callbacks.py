@@ -131,20 +131,28 @@ def create_figure(data, att_values, label_values, height):
     graph_labels[y_att] = y_lab if (y_att and y_lab) else y_att
 
     print(x_att, y_att)
-    # create the scatter plot
+    try:
+        for entry in df[attributes[go.size]]:
+            print(entry)
+            if entry <0:
+                raise Exception
+
+    except Exception as e:
+        print(e)
+        error_text = "Selected column has negative values. Select another column."
+        return error_text
+        # create the scatter plot
     figure = px.scatter(
-        df,
-        x=x_att,
-        y=y_att,
-        size=attributes[go.size],
-        color=attributes[go.color],
-        title=labels[go.title],
-        labels=graph_labels,
-        height=height,
+            df,
+            x=x_att,
+            y=y_att,
+            size=attributes[go.size],
+            color=attributes[go.color],
+            title=labels[go.title],
+            labels=graph_labels,
+            height=height,
     )
-
     return figure
-
 
 @app.callback(
     Output("container-button-basic", "children"),
