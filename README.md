@@ -163,7 +163,7 @@ Various developers. Please check [CONTRIBUTING.md](./CONTRIBUTING.md) and [CODE_
 * If you're an ML enthusiast, basic machine learning models can be implemented to identify patterns in the data.
 
 ## Roadmap
-- [List of Roadmap and their corresponding open issues](https://github.com/bradley-erickson/CmyPlot/issues/48)
+- [List of Roadmap and their corresponding open issues](https://github.com/ShreeSub/CmyPlot/issues)
 
 ## Team Members
 [Aditi Bhagwat](https://github.com/aditi12200)
