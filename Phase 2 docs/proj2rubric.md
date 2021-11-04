@@ -1,5 +1,5 @@
 # Project 2 Rubric
-|Total Score|Notes| Evidence|Score|
+|Total Score|Notes| Evidence|Self Score|
 |-----|---------|------|-----|
 |.5| short release cycles|[Release cycles]( https://github.com/ShreeSub/CmyPlot/releases)|.5|
 |.5| workload is spread over the whole team (so one team member is often Xtimes more productive than the others...|[Issues](https://github.com/ShreeSub/CmyPlot/issues) [commits](https://github.com/ShreeSub/CmyPlot/graphs/contributors)|.5|
@@ -23,5 +23,5 @@
 |.5|test cases:.a large proportion of the issues related to handling failing cases. | [tests were updated](https://github.com/ShreeSub/CmyPlot/commit/1360a5f02baa5412c768d925ff001fda75e7b28b)|.5|
 |.5|test cases are routinely executed |[Pipeline](https://github.com/ShreeSub/CmyPlot/actions)|.5|
 |1|Documentation describing how this version improves on the older version|[Delta Document](https://github.com/ShreeSub/CmyPlot/blob/main/Phase%202%20docs/deltadocument.md#new-features-and-enhancements-)|1| 
-|3|This version is a little(1), some(2), much(3) improved on the last version.|Tutor's assessment.| 
-|16| Total|
+|3|This version is a little(1), some(2), much(3) improved on the last version.|Tutor's assessment.|3|
+|16| Total||16|
