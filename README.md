@@ -166,6 +166,3 @@ https://user-images.githubusercontent.com/65619749/134620802-5fac9f0e-d697-49df-
 [Rachit Sharma](https://github.com/elric97)
 
 [Shree Ramasubramanian](https://github.com/ShreeSub)
-
-[Palvit Garg](https://github.com/palvitgarg99)
-
