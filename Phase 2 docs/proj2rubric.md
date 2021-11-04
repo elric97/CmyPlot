@@ -16,7 +16,7 @@
 |1|Issues reports: there are many  |[Open issues](https://github.com/ShreeSub/CmyPlot/issues?q=is%3Aopen+is%3Aissue) [Closed issues](https://github.com/ShreeSub/CmyPlot/issues?q=is%3Aissue+is%3Aclosed)|1|
 |.5|Use of code formatters. |we added black as the code formatter[config file](https://github.com/ShreeSub/CmyPlot/blob/main/.github/workflows/python-app.yml#L29)|.5|
 |.5|Use of style checkers |flake is used as style checker [config file](https://github.com/ShreeSub/CmyPlot/blob/main/.github/workflows/python-app.yml#L32)|.5|
-|.5|Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code. | |
+|.5|Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code. |[Video](https://github.com/ShreeSub/CmyPlot#visual-walkthrough)|.5|
 |.5|test cases exist  | [tests](https://github.com/ShreeSub/CmyPlot/tree/main/tests) exist, we have added tests for all the pages and features|.5|
 |.5|Use of code coverage  | [code coverage](https://codecov.io/gh/ShreeSub/CmyPlot) is automatically checked here as well as in [config](https://github.com/ShreeSub/CmyPlot/blob/main/.github/workflows/python-app.yml) file|.5|
 |.5|other automated analysis tools  | we have used multiple tools such as [code formatters,synatx checkers, style checkers](https://github.com/ShreeSub/CmyPlot/blob/main/.github/workflows/python-app.yml) [code coverage](https://codecov.io/gh/ShreeSub/CmyPlot) and [automated Pipeline](https://github.com/ShreeSub/CmyPlot/actions/workflows/python-app.yml)|.5|
