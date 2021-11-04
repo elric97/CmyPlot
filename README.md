@@ -35,6 +35,7 @@ As the famous saying goes - `"The greatest value of visualization is when it for
 **Note:** The application has been deployed on Heroku (free platform service). The app's usage is limited to monthly pool of free dyno hours. Also, free apps sleep automatically after 30 mins of inactivity to conserve your dyno hours.
 ## Visual Walkthrough:
 <p align="center"><img width="700" src="./docs/demo/phase2_cmyplotdemo.gif"></p>
+
 ## Quick look:
 
 <table border="2" bordercolorlight="#b9dcff" bordercolordark="#006fdd">
@@ -152,8 +153,17 @@ As the famous saying goes - `"The greatest value of visualization is when it for
      - Site will be hosted at:
        `http://127.0.0.1:8085/`
 
-     ## Roadmap
-       - [List of Roadmap and their corresponding open issues](https://github.com/bradley-erickson/CmyPlot/issues/48)
+## Future Scope 🐾
+There are multiple dimensions to this project catering to the interests of
+Various developers. Please check [CONTRIBUTING.md](./CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for contributing rules
+
+* Resolve the existing issues.
+* Add more functionality in Graph and Table visuals to give more flexibility to user to interact with data.
+* Tables can be made editable to interact with data and visualize cause and effects for the given data.
+* If you're an ML enthusiast, basic machine learning models can be implemented to identify patterns in the data.
+
+## Roadmap
+- [List of Roadmap and their corresponding open issues](https://github.com/bradley-erickson/CmyPlot/issues/48)
 
 ## Team Members
 [Aditi Bhagwat](https://github.com/aditi12200)
