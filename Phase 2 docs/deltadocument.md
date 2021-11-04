@@ -53,7 +53,7 @@
         </td> 
     </tr>
   </table>
-* We have also added a production server called waitress, and we have deployed the application on Heroku using that server: https://cmyplot.herokuapp.com
+* The project is live now. We have also added a production server called waitress, and we have deployed the application on Heroku using that server: https://cmyplot.herokuapp.com
 * We have also provided the facility to share dashboards containing one graph using a sharable URL.
   <table>
      <tr>
