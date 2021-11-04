@@ -35,7 +35,7 @@ As the famous saying goes - `"The greatest value of visualization is when it for
 **Note:** The application has been deployed on Heroku (free platform service). The app's usage is limited to monthly pool of free dyno hours. Also, free apps sleep automatically after 30 mins of inactivity to conserve your dyno hours.
 ## Visual Walkthrough:
 https://user-images.githubusercontent.com/65619749/134620802-5fac9f0e-d697-49df-876c-3f5ff7d86e38.mp4
-
+<p align="center"><img width="700" src="./docs/demo/phase2_cmyplotdemo.gif"></p>
 ## Quick look:
 
 <table border="2" bordercolorlight="#b9dcff" bordercolordark="#006fdd">
