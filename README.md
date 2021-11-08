@@ -37,7 +37,9 @@ As the famous saying goes - `"The greatest value of visualization is when it for
 <p align="center"><img width="700" src="./docs/demo/phase2_cmyplotdemo.gif"></p>
 
 ## Quick look:
+Give it a try yourself: https://cmyplot.herokuapp.com/ 
 
+(Heroku server may take long to respond first time, if no traffic within last 30 minutes).
 <table border="2" bordercolorlight="#b9dcff" bordercolordark="#006fdd">
 
   <tr style="background: #010203 ">
