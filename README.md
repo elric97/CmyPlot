@@ -36,6 +36,9 @@ As the famous saying goes - `"The greatest value of visualization is when it for
 ## Visual Walkthrough:
 <p align="center"><img width="700" src="./docs/demo/phase2_cmyplotdemo.gif"></p>
 
+## What's new?
+[Phase 1 vs phase 2](https://github.com/ShreeSub/CmyPlot/blob/main/Phase%202%20docs/deltadocument.md)
+
 ## Quick look:
 Give it a try yourself: https://cmyplot.herokuapp.com/ 
 
