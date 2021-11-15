@@ -39,6 +39,9 @@ As the famous saying goes - `"The greatest value of visualization is when it for
 ## What's new?
 [Phase 1 vs phase 2](https://github.com/ShreeSub/CmyPlot/blob/main/Phase%202%20docs/deltadocument.md)
 
+## Docs
+[Documentation](https://elric97.github.io/CmyPlot/)
+
 ## Quick look:
 Give it a try yourself: https://cmyplot.herokuapp.com/ 
 
