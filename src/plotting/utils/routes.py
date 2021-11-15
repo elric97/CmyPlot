@@ -2,14 +2,14 @@
 from dash.dependencies import Input, Output, State
 
 # local imports
-from src.plotting.app import app
-from src.plotting.layout import navbar
-from src.plotting.pages.home import home
-from src.plotting.pages.bad_url import bad_url
-from src.plotting.pages.upload import upload
-from src.plotting.pages.table import table
-from src.plotting.pages.graph import graph
-from src.plotting.pages.linkShare import offlinepage
+from plotting.app import app
+from plotting.layout import navbar
+from plotting.pages.home import home
+from plotting.pages.bad_url import bad_url
+from plotting.pages.upload import upload
+from plotting.pages.table import table
+from plotting.pages.graph import graph
+from plotting.pages.linkShare import offlinepage
 
 
 server = app.server
@@ -71,7 +71,7 @@ def handle_routes(pathname):
         return graph.layout
     elif pathname == "/share":
         if len(pathlist) >= 3:
-            from src.plotting.pages.linkShare import figure_generator
+            from plotting.pages.linkShare import figure_generator
 
             figure_generator.filename = pathlist[2] + ".pkl"
             figure_generator.xaxis = pathlist[3]

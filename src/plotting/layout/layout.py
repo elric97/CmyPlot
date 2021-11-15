@@ -3,8 +3,8 @@ from dash import html, dcc, dash
 import dash_bootstrap_components as dbc
 
 # local imports
-from src.plotting.layout.navbar import navbar
-from src.plotting.layout.footer import footer
+from plotting.layout.navbar import navbar
+from plotting.layout.footer import footer
 
 # constants
 store_id = "id-data-store"

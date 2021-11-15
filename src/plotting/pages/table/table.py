@@ -4,7 +4,7 @@ import dash_bootstrap_components as dbc
 from dash import dcc
 
 # local imports
-from src.plotting.utils import color
+from plotting.utils import color
 
 # set constants
 path = "/table"

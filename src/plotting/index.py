@@ -1,17 +1,17 @@
 # package imports
-from src.plotting.app import app
+from plotting.app import app
 import argparse
 from waitress import serve
 
 # local imports
 
-from src.plotting.environment.settings import APP_PORT, APP_DEBUG, DEV_TOOLS_PROPS_CHECK
+from plotting.environment.settings import APP_PORT, APP_DEBUG, DEV_TOOLS_PROPS_CHECK
 
 # initializes all callbacks
-import src.plotting.utils.routes
-import src.plotting.pages.upload.upload_callbacks
-import src.plotting.pages.table.table_callbacks
-import src.plotting.pages.graph.graph_callbacks
+import plotting.utils.routes
+import plotting.pages.upload.upload_callbacks
+import plotting.pages.table.table_callbacks
+import plotting.pages.graph.graph_callbacks
 
 # initialize services
 server = app.server

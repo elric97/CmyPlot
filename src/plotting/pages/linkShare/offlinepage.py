@@ -3,9 +3,9 @@ from dash import dcc, html
 import dash_bootstrap_components as dbc
 
 # local imports
-from src.plotting.pages.graph.components import graph_options
-from src.plotting.pages.linkShare.figure_generator import make_graph
-from src.plotting.utils.constants import graph_config
+from plotting.pages.graph.components import graph_options
+from plotting.pages.linkShare.figure_generator import make_graph
+from plotting.utils.constants import graph_config
 
 # set constants
 path = "/share"

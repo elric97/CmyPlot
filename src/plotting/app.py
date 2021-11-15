@@ -5,7 +5,7 @@ from flask_caching import Cache
 import os
 
 # local imports
-from src.plotting.layout.layout import layout
+from plotting.layout.layout import layout
 
 cwd = os.getcwd()
 assets_path = os.path.join(cwd, "src", "plotting", "assets")
